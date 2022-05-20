@@ -1,7 +1,20 @@
 {
 	"_meta": {
-		"internalCopies": [
-			"race"
+		"sources": [
+			{
+				"json": "Anesir",
+				"abbreviation": "Anes",
+				"full": "Anesir",
+				"authors": [
+					"CogLady"
+				],
+				"convertedBy": [
+					"GrimLefourbe"
+				],
+				"version": "0.0.1",
+				"targetSchema": "1.1.0",
+				"color": "0f8a0d"
+			}
 		]
 	},
 	"race": [
