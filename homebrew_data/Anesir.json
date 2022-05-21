@@ -96,129 +96,284 @@
 					"entries": [
 						"You can speak, read, and write Common, Sanguis and Abyssal."
 					],
-					"data": {
-						"overwrite": "Languages"
-					},
 					"type": "entries"
+				}
+			],
+			"subraces": [
+				{
+					"name": "Icarean",
+					"source": "Anesir",
+					"ability": [
+						{
+							"con": 1
+						}
+					],
+					"darkvision": 120,
+					"armorProficiencies": [
+						{
+							"light": true,
+							"medium": true
+						}
+					],
+					"speed": 35,
+					"traitTags": [
+						"Sunlight Sensitivity"
+					],
+					"entries": [
+						{
+							"name": "Superior Darkvision",
+							"entries": [
+								"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+							],
+							"data": {
+								"overwrite": "Darkvision"
+							},
+							"type": "entries"
+						},
+						{
+							"name": "Armor Training",
+							"entries": [
+								"You have proficiency with light and medium armor."
+							],
+							"type": "entries"
+						},
+						{
+							"name": "Sunlight Sensitivity",
+							"entries": [
+								"You have disadvantage on attack rolls and Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+							],
+							"type": "entries"
+						},
+						{
+							"name": "Slithering Shadow",
+							"entries": [
+								"Your movement speed increases to 35 feet."
+							],
+							"type": "entries"
+						}
+					]
+				},
+				{
+					"name": "Nekros",
+					"source": "Anesir",
+					"page": 1,
+					"skillProficiencies": [
+						{
+							"arcana": true
+						}
+					],
+					"weaponProficiencies": [
+						{
+							"dagger|phb": true,
+							"rapier|phb": true,
+							"shortbow|phb": true,
+							"longbow|phb": true
+						}
+					],
+					"resist": [
+						"necrotic"
+					],
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Assassin Training",
+							"entries": [
+								"You have proficiency with the {@item dagger|phb}, {@item rapier|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Dark Knowledge",
+							"entries": [
+								"You have proficiency in the {@skill Arcana} skill."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Dark Resistance",
+							"entries": [
+								"You have resistance against necrotic damage."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Erudite",
+							"entries": [
+								"You learn one extra language."
+							]
+						}
+					]
 				}
 			]
-		}
-	],
-	"subrace":
-	[
-		{
-			"name": "Icarean",
-			"source": "Anesir",
-			"raceName": "Nagbloed",
-			"raceSource": "Anesir",
-			"basicRules": true,
-			"ability": [
-				{
-					"con": 1
-				}
-			],
-			"darkvision": 120,
-			"armorProficiencies": [
-				{
-					"light": true,
-					"medium": true
-				}
-			],
-			"speed": {
-				"walk": 35
-			},
-			"traitTags": [
-				"Sunlight Sensitivity"
-			],
-			"entries": [
-				{
-					"name": "Superior Darkvision",
-					"entries": [
-						"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-					],
-					"data": {
-						"overwrite": "Darkvision"
-					},
-					"type": "entries"
-				},
-				{
-					"name": "Armor Training",
-					"entries": [
-						"You have proficiency with light and medium armor."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Sunlight Sensitivity",
-					"entries": [
-						"You have disadvantage on attack rolls and Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Slithering Shadow",
-					"entries": [
-						"Your movement speed increases to 35 feet."
-					],
-					"type": "entries"
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
 		},
 		{
-			"name": "Nekros",
+			"name": "Dagbloed",
 			"source": "Anesir",
-			"raceName": "Nagbloed",
-			"raceSource": "Anesir",
-			"page": 5,
-			"skillProficiencies": [
+			"page": 1,
+			"size": [
+				"M"
+			],
+			"ability": [
 				{
-					"arcana": true
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+						"amount": 2
+					},
+					"wis": 1
 				}
 			],
-			"weaponProficiencies": [
+			"speed": 30,
+			"age": {
+				"mature": 20,
+				"max": 100
+			},
+			"creatureTypes": [
+				"humanoid"
+			],
+			"additionalSpells": [
 				{
-					"dagger|phb": true,
-					"rapier|phb": true,
-					"shortbow|phb": true,
-					"longbow|phb": true
+					"ability": "wis",
+					"known": {
+						"1": [
+							"light#c"
+						]
+					}
 				}
 			],
-			"resist": [
-				"necrotic"
+			"languageProficiencies": [
+				{
+					"common": true,
+					"sanguis": true
+				}
 			],
 			"entries": [
 				{
-					"type": "entries",
-					"name": "Assassin Training",
+					"name": "Age",
 					"entries": [
-						"You have proficiency with the {@item dagger|phb}, {@item rapier|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
-					]
+						"Dagbloeds mature at the same rate as humans and can easily live for a century."
+					],
+					"type": "entries"
 				},
 				{
-					"type": "entries",
-					"name": "Dark Knowledge",
+					"name": "Alignment",
 					"entries": [
-						"You have proficiency in the {@skill Arcana} skill."
-					]
+						"Respectful of laws and traditions, Dagbloed tend towards Lawful. Their indifference towards the material world usually makes them Neutral."
+					],
+					"type": "entries"
 				},
 				{
-					"type": "entries",
-					"name": "Dark Resistance",
+					"name": "Size",
 					"entries": [
-						"You have resistance against necrotic damage."
-					]
+						"Dagbloeds are easily over 6 feet tall and their build is similar to humans'. Your size is Medium."
+					],
+					"type": "entries"
 				},
 				{
-					"type": "entries",
-					"name": "Erudite",
+					"name": "Divine Magic",
 					"entries": [
-						"You learn one extra language."
-					]
+						"You know the {@spell light} cantrip."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Blood Thirst",
+					"entries": [
+						"Your kind may be peaceful, but you have not forgotten the instincts that gave them their name. Calling upon the Night God, you can go back to these savage ways. When attacking with a melee weapon, you can use a bonus action to consume the blood spilt by the enemy to gain temporary HP equal to your wisdom modifier. Once you’ve used this feature, you can’t use it again util you finish a short or long rest."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common and Sanguis."
+					],
+					"type": "entries"
 				}
 			],
-			"hasFluff": true
+			"subraces": [
+				{
+					"name": "Sun-Scorched",
+					"source": "Anesir",
+					"page": 1,
+					"ability": [
+						{
+							"con": 1
+						}
+					],
+					"armorProficiencies": [
+						{
+							"light": true,
+							"medium": true
+						}
+					],
+					"weaponProficiencies": [
+						{
+							"choose": {
+								"fromFilter": "type=martial weapon|miscellaneous=mundane",
+								"count": 2
+							}
+						}
+					],
+					"entries": [
+						{
+							"name": "Armor Training",
+							"entries": [
+								"You have proficiency with light and medium armor."
+							],
+							"type": "entries"
+						},
+						{
+							"name": "Martial Training",
+							"entries": [
+								"You are proficient with two {@filter martial weapons|items|source=phb|category=basic|type=martial weapon} of your choice and with light armor."
+							],
+							"type": "entries"
+						}
+					]
+				},
+				{
+					"name": "Sun-Bathed",
+					"source": "Anesir",
+					"page": 1,
+					"skillProficiencies": [
+						{
+							"choose": {
+								"from": [
+									"insight",
+									"history",
+									"religion",
+									"arcana",
+									"nature"
+								]
+							},
+							"count": 2
+						}
+					],
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Scholar",
+							"entries": [
+								"You gain proficiency with one of the following skills of your choice: {@skill Insight}, {@skill History}, {@skill Religion}, {@skill Arcana}, or {@skill Nature}."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Erudite",
+							"entries": [
+								"You learn one extra language."
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
