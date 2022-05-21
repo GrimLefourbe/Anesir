@@ -323,16 +323,9 @@
 					],
 					"entries": [
 						{
-							"name": "Armor Training",
-							"entries": [
-								"You have proficiency with light and medium armor."
-							],
-							"type": "entries"
-						},
-						{
 							"name": "Martial Training",
 							"entries": [
-								"You are proficient with two {@filter martial weapons|items|source=phb|category=basic|type=martial weapon} of your choice and with light armor."
+								"You are proficient with two {@filter martial weapons|items|source=phb|category=basic|type=martial weapon} of your choice and with light and medium armor."
 							],
 							"type": "entries"
 						}
