@@ -1,0 +1,224 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Anesir",
+				"abbreviation": "Anesir",
+				"full": "Anesir",
+				"authors": [
+					"CogLady"
+				],
+				"convertedBy": [
+					"GrimLefourbe"
+				],
+				"version": "0.0.1",
+				"targetSchema": "1.1.0",
+				"color": "0f8a0d"
+			}
+		]
+	},
+	"race": [
+		{
+			"name": "Nagbloed",
+			"source": "Anesir",
+			"page": 1,
+			"size": [
+				"M"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+						"amount": 2
+					},
+					"cha": 1
+				}
+			],
+			"speed": 30,
+			"age": {
+				"mature": 20,
+				"max": 200
+			},
+			"creatureTypes": [
+				"humanoid"
+			],
+			"darkvision": 60,
+			"languageProficiencies": [
+				{
+					"common": true,
+					"sanguis": true,
+					"abyssal": true
+				}
+			],
+			"skillProficiencies": [
+				{
+                    "stealth": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"The Night God grants you long life. His followers mature at the same rate as humans but can live to be 200 years old."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Nagbloed have turned their back on the Sun Goddess, but they still follow the Night God’s precepts. They tend to be lawful. However, their lust for power draws them towards Evil."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+					]
+				},
+				{
+					"name": "Walk in Shadows",
+					"entries": [
+						"You have proficiency in the {@skill Stealth} skill."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common, Sanguis and Abyssal."
+					],
+					"data": {
+						"overwrite": "Languages"
+					},
+					"type": "entries"
+				}
+			]
+		}
+	],
+	"subrace":
+	[
+		{
+			"name": "Icarean",
+			"source": "Anesir",
+			"raceName": "Nagbloed",
+			"raceSource": "Anesir",
+			"basicRules": true,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 120,
+			"armorProficiencies": [
+				{
+					"light": true,
+					"medium": true
+				}
+			],
+			"speed": {
+				"walk": 35
+			},
+			"traitTags": [
+				"Sunlight Sensitivity"
+			],
+			"entries": [
+				{
+					"name": "Superior Darkvision",
+					"entries": [
+						"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"data": {
+						"overwrite": "Darkvision"
+					},
+					"type": "entries"
+				},
+				{
+					"name": "Armor Training",
+					"entries": [
+						"You have proficiency with light and medium armor."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Sunlight Sensitivity",
+					"entries": [
+						"You have disadvantage on attack rolls and Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Slithering Shadow",
+					"entries": [
+						"Your movement speed increases to 35 feet."
+					],
+					"type": "entries"
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+		{
+			"name": "Nekros",
+			"source": "Anesir",
+			"raceName": "Nagbloed",
+			"raceSource": "Anesir",
+			"page": 5,
+			"skillProficiencies": [
+				{
+					"arcana": true
+				}
+			],
+			"weaponProficiencies": [
+				{
+					"dagger|phb": true,
+					"rapier|phb": true,
+					"shortbow|phb": true,
+					"longbow|phb": true
+				}
+			],
+			"resist": [
+				"necrotic"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Assassin Training",
+					"entries": [
+						"You have proficiency with the {@item dagger|phb}, {@item rapier|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Dark Knowledge",
+					"entries": [
+						"You have proficiency in the {@skill Arcana} skill."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Dark Resistance",
+					"entries": [
+						"You have resistance against necrotic damage."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Erudite",
+					"entries": [
+						"You learn one extra language."
+					]
+				}
+			],
+			"hasFluff": true
+		}
+	]
+}
