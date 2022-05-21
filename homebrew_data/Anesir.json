@@ -367,6 +367,152 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Kalar",
+			"source": "Anesir",
+			"page": 1,
+			"size": [
+				"S"
+			],
+			"traitTags": [
+				"Tool Proficiency"
+			],			"ability": [
+				{
+					"int": 2,
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"wis",
+							"cha"
+						],
+						"amount": 1
+					}
+				}
+			],
+			"speed": {
+				"walk": 25,
+				"fly": 30
+			},
+			"age": {
+				"mature": 10,
+				"max": 150
+			},
+			"creatureTypes": [
+				"humanoid"
+			],
+			"darkvision": 60,
+			"languageProficiencies": [
+				{
+					"common": true,
+					"kalari": true,
+					"anyStandard": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+                    "history": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"navigator's tools": 1
+				}
+			],
+			"additionalSpells": [
+				{
+					"ability": "int",
+					"known": {
+						"1": [
+							"mending#c"
+						]
+					}
+				}
+			],
+			"resist": [
+				"thunder"
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Kalar reach adulthood around 10 years old and can live for well over a century."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Life on an airship is strict, and Kalar have an ingrained sense of discipline drawing them towards Lawful alignments. They teach their young the value of compassion and solidarity early on, and most Kalar tend to be Good. "
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Used to survey the skies day and night, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Kalar usually stand between 3 and 4 feet tall and weigh about 40 pounds. Your size is small."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Tiny wings",
+					"entries": [
+						"Small wings sprout from your back with a wingspan of 1 foot, granting you a flying speed of 30 feet. You must land at the end of every turn or fall."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Speak with small beasts",
+					"entries": [
+						"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"You are proficient with {@item Navigator's tools|phb}"
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Storm diver",
+					"entries": [
+						"You have resistance to Thunder damage"
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Bookworm",
+					"entries": [
+						"You are proficient in the {@skill History} skill."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Natural Tinkerer",
+					"entries": [
+						"You know the {@spell mending} cantrip."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read and write Common, Kalari and one other language of your choice. Kalari is the language of the Kalar, a fast-paced flowing language rich in vowels and short words. It is written using Celestial script"
+					],
+					"type": "entries"
+				}
+			]
 		}
 	]
 }
