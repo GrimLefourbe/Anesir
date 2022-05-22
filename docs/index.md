@@ -1,7 +1,9 @@
 ## Welcome to Anesir's GitHub Pages
 
-![Anesir World Map](assets/maps/new_continent_map.jpg)
+Here are the currently availables pages:  
+- [Maps](maps.md)
 
+## Editing these pages.
 
 You can use the [editor on GitHub](https://github.com/GrimLefourbe/Anesir/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
