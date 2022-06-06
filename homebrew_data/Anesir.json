@@ -19,6 +19,169 @@
 	},
 	"race": [
 		{
+			"name": "Animae",
+			"source": "Anesir",
+			"page": 1,
+			"size": [
+				"M"
+			],
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+						"amount": 1
+					},
+					"dex": 2
+				}
+			],
+			"speed": {
+				"walk": 30,
+				"climb": 30
+			},
+			"age": {
+				"mature": 13,
+				"max": 60
+			},
+			"traitTags": [
+				"Natural Weapon"
+			],
+			"creatureTypes": [
+				"humanoid"
+			],
+			"darkvision": 60,
+			"languageProficiencies": [
+				{
+					"common": true,
+					"wolftongue": true
+				}
+			],
+			"skillProficiencies": [
+				{
+                    "perception": true
+				}
+			],
+			"resist": [
+				"cold"
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"alchemist's supplies",
+							"leatherworker's tools",
+							"weaver's tools",
+							"woodcarver's tools",
+							"herbalism kit"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Animae grow up and age quickly. They walk a few months after birth, and transform before the end of the first year, usually before they can even talk. They reach maturity around 13 and are considered full-fledged warriors at 15 and allowed to leave the clan. They are considered elderly after 50 years old and rarely live past 60."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Animae tend to be chaotic, pursuing entertainment and freedom before all. They care little for rules unless they have been decided by the matriarchs. They tend towards neutral as they are self-serving but will avoid bringing harm to others if they can. However, they usually do not care about how inconvenient they can be to others."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Nocturnal hunter, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. "
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Animae are usually around 5 feet tall and weigh around 100 pounds. Your size is medium. When they take their wolf form, Animae are usually around 3 feet tall and between 5 and 6 feet long, but some can grow larger. The transformation also adds 100 pounds or so to their weight. Under this form, your size is medium."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Wolf's claws",
+					"entries": [
+						"Because of your claws, you have a climbing speed of 30 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+					]
+				},
+				{
+					"name": "Hunter's senses",
+					"entries": [
+						"You have proficiency in the {@skill Perception} skill."
+					],
+					"type": "entries"
+				},
+				{
+					"type": "entries",
+					"name": "Protective Fur",
+					"entries": [
+						"You have resistance against cold damage."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Tool proficiencies",
+					"entries": [
+						"You have proficiency with the tool of your choice: Alchemist’s supplies, Leatherworker’s tools, Weaver’s tools, Woodcarver’s tool, Herbalism Kit."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Shapeshifting",
+					"entries": [
+						"Outside of battle, you can shapeshift into your animal form. As a beast, you gain advantage on wisdom ({@skill Perception}) checks that rely on hearing and smell. Under this form, you can still speak Wolftongue, and you gain the ability to communicate in a limited manner with beasts and understand them. Once you use this feature, you cannot use it again until you finish a short or long rest."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak and read Common but cannot write. You can speak Wolftongue. Wolftongue, the language of the Animae is a smooth and soft language with occasional harsh and guttural sounds. There is no written alphabet for it."
+					],
+					"type": "entries"
+				}
+			],
+			"_versions": [
+				{
+					"name": "Animae (Non-Transforming)",
+					"source": "Anesir",
+					"skillProficiencies": [
+						{
+							"nature": true,
+							"survival": true,
+							"perception": true
+						}
+					],
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Shapeshifting",
+							"items": {
+								"name": "Non-transforming Animae",
+								"types": "entries",
+								"entries": [
+									"Some Animae simply cannot shapeshift and are as a result seen as inferior by their peers. They do not have the shapeshifting trait but gain proficiency in the nature and survival skills.  "
+								]
+							}
+						}
+					}
+				}
+			]
+		},
+		{
 			"name": "Nagbloed",
 			"source": "Anesir",
 			"page": 1,
