@@ -3,6 +3,7 @@
 Here are the currently availables pages:  
 - [Maps](maps.md)
 - [Races](races.md)
+- [Gods and Godesses](gods.md)
 
 ## Editing these pages.
 
