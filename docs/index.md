@@ -1,7 +1,8 @@
-## Welcome to Anesir's GitHub Pages
+# Welcome to Anesir's GitHub Pages
 
 Here are the currently availables pages:  
 - [Maps](maps.md)
+- [Races](races.md)
 
 ## Editing these pages.
 
