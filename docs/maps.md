@@ -2,7 +2,7 @@
 
 ## World
 
-![Anesir World Map](assets/maps/new_continent_map.jpg)
+![Anesir World Map](assets/maps/anesir_world_map.jpg)
 
 ## Serre-de-Sang
 
