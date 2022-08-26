@@ -237,3 +237,95 @@ Most Animaes can speak and read Common but cannot write.
 Animaes can also speak Wolftongue. Wolftongue, the language of the Animae is a smooth and soft language with occasional harsh and guttural sounds. There is no written alphabet for it.
 
 ### Kalar
+
+![Kalar](assets/races/kalar.jpg)
+
+#### Small and soft
+
+Kalar are small humanoid creatures, sharing some features with bunnies. Their legs end in flat feet like rabbits, and their whole body is covered in thick and soft fur, which they shed in autumn and spring, and can be any shade of grey or brown. Their skin underneath is black or dark pink. Kalar have small, dark-colored round eyes, and large rabbit ears which may be perked straight up or floppy. Small wings sprout from their back, with a wingspan of about 1 foot. Their wings can appear scaly like a dragon’s, leathery like a bat’s, feathery like a bird’s or even be dragonfly wings. Kalar have a thin tail ended in a tuft of thick fur.  
+Kalar make no clear distinction between genders in the way the dress or fashion themselves, and an outsider may have a hard time telling males and females at a glance.
+
+#### Sky explorers
+
+Kalar live their whole lives roaming the sky aboard huge airships. Powered by intricate magic and complex mechanisms, these airships allow a group of Kalar to live up in the air for months. Kalar spend most their lives in the sky, surveying the continent and transporting goods across different regions.  
+The magical trinkets they make and the fabric they weave from long-haired rabbit wool always fetch a good price.  
+
+#### Life in the air
+
+Spending most of their lives high up in the air, Kalar face many challenges. While most of their food comes from trade with land-dwellers, they also raise small animals for food. Dedicated rooms of the airships hold broods of long-haired rabbits and flightless birds, providing them with meat, wool, and eggs. On sunny days when the sea is calm, they also lower their airships to fish.  
+Life on the airships require a lot of discipline, and Kalar are expected to help out around the ship from a young age. Most Kalar find themselves enjoying hard work, and fill whatever free time they have left with manual crafts and deep study of lore and legends. 
+
+#### Seekers of knowledge
+
+Kalar rarely set foot on Anesir, and rarely step away from their airships to explore the continent. When they do, however, it is to satiate their personal curiosity about some legend of artefact that they have heard about. In some rare situations, Kalar are sent on an official diplomatic mission by their captain.
+
+#### Mysterious traders
+
+Kalar aircrafts sometimes land in remote islands of Anesir, but they are seldom seen on the mainland. Kalar only stay long enough to replenish their stocks and sell their goods and take off for the vast skies as after only a short stay.  
+Kalar rarely speak of what they have seen during their travel and only maintain superficial friendships with the continent’s denizens.
+
+#### Land-dwellers
+
+Not all Kalar like the life up in the airships. Some of them leave their kin to settle down on land and enjoy a more peaceful life. These rare Kalar usually make a living as merchants or craftsmen and live a quiet and discreet life. 
+
+#### Kalar names
+
+Kalar have two names. The name which they use to introduce themselves to land-dwellers, and the name they use with their own kind. Kalar outside names tend to be descriptive, chosen after one of their physical or personality traits. Kalar true names are usually two syllables long. Kalar names are unisex.  
+Kalar outside names:  
+Cottontail, Wobble, White-Patch, Snowfell, Red-Eye...  
+Kalar true names:  
+Timo, Paku, Nana, Ari... 
+
+#### Kalar traits
+
+##### Ability score increase
+
+Your intelligence score increases by 2 and your dexterity score increases by 1.
+
+##### Age
+
+Kalar reach adulthood around 10 years old and can live for well over a century.
+
+##### Alignement
+
+Life on an airship is strict, and Kalar have an ingrained sense of discipline drawing them towards Lawful alignments. They teach their young the value of compassion and solidarity early on, and most Kalar tend to be Good.
+
+##### Size
+
+Kalar usually stand between 3 and 4 feet tall and weigh about 40 pounds. Your size is small. 
+
+##### Speed
+
+Your base walking speed is 25 feet.
+
+##### Darkvision
+
+Used to survey the skies day and night, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+##### Tiny wings
+
+Small wings sprout from your back with a wingspan of 1 foot, granting you a flying speed of 30 feet. You must land at the end of every turn or fall. 
+
+##### Speak with small beasts
+
+Through sound and gestures, you may communicate simple ideas with Small or smaller beasts.
+
+##### Sky explorer
+
+You are proficient with Navigator’s tools. 
+
+##### Storm diver
+
+You have resistance to Thunder damage.
+
+##### Bookworm
+
+You are proficient in the History skill. 
+
+##### Natural Tinkerer
+
+You know the Mending cantrip. 
+
+##### Languages
+
+You can speak, read and write Common, Kalari and one other language of your choice. Kalari is the language of the Kalar, a fast-paced flowing language rich in vowels and short words. It is written using Celestial script. 
