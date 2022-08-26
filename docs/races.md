@@ -21,6 +21,96 @@ Most races of the old world can be encountered in Anesir although mainly concent
 
 ### Denarii
 
+![Denarii](assets/races/denarii.jpg)
+
+They came from a destroyed plane along with their eternal enemies, the Sayanaki. Their bloody history, full of war and hatred, ended abruptly as they now live in poverty, reduced to servitude. 
+
+#### Unsettling appearance
+
+A Denarii’s physique always makes them stand out, and the attention they receive is rarely positive. Their frame and build are similar to humans, but their physical appearance is wildly different. At first glance, they seem to have five eyes, always glancing everywhere, but an attentive observer will notice that what seems to be a mouth is actually an eyelid. Their actual mouth is right under their throat, full of apparent sharp teeth, but they do use their decoy mouth to convey the same kind of facial expressions as any humanoid. They have long, pointy and slightly droopy ears. On their upper arms, two more eyes are ever watchful. Another noticeable trait of the Denarii is their long tail. It’s covered it tiny spikes allowing it to grip objects.
+
+Denarii’ skin can be of any color, but it is usually dark and greyish. It is covered in a thin layer of mucus. Their hair grows in two or more colors, which may or may not form patterns.  
+Denarii pay close attention to their appearance and like to wear intricate clothing coated in a water repellent substance to accommodate their slimy skin. 
+
+#### Flamboyant and Grandiloquent
+
+Denarii tend to be very expressive and take up a lot of space in a room. Whether it is through their elaborate outfits, colorful skin and hair, dramatic manners or unusual appearance, they tend to draw attention on themselves, and often revel in it. They tend to be social but seem to consider themselves superior to most of the other races. They are confident and proud, even after being defeated and brought into servitude. They sometimes appear condescending and often only form surface-level relationships with other races and tend to stick together with their peers. Despite their arrogance, they seem to fear the unknown. They are a bit too quick to trust their own race, and a bit too stubborn in their mistrust of the others. 
+Denarii also often think of themselves as artists and seek to bring beauty to the world and to themselves. They often take inspiration from nature for their clothing and patterns. 
+
+#### Always Ready
+
+Denarii never built great cities. They lived a nomadic lifestyle for most of their history but started gathering in bigger communities when as the scale of their wars with the Sayanaki increased. They often build fortified villages or encampments in areas with high relief such as mountains or hills. Most of their buildings are made of wood or cloth, bone and hide. Their furniture is light and can be easily moved. Although their lifestyle is becoming more sedentary, Denarii are always ready to move out when threatened. They raise resilient cattle and always have a stock of non-perishable food to take with them should they leave their settlement. They use magic to maintain their crops and accelerate their growth. 
+Since the end of the Greater War, Denarii also inhabit districts in Sayanaki cities. These districts are often poor and rife with crime and soldiers are patrolling them day and night. The Denarii living there see themselves as prisoners rather than citizens of the city and are often used by the Sayanaki for cheap labour. 
+
+#### Denarii and Warlocks
+
+Due to their past history, warlocks have become exceedingly rare among Denarii. Few otherworldly patrons would accept to deal with them after the cruel betrayal they experienced, and such a pact often comes at a high cost. 
+
+#### Mutual mistrust
+
+Denarii are wary of strangers, and this defiance goes both ways. Be it because of their appearance or their involvement in too many wars, most races have a hard time trusting them. However, their exuberant and extroverted nature makes them great drinking partners and distant friends. 
+
+#### Denarii Names
+
+Denarii names often sound rough and have very few vowels. Most first names are unisex. They do not have family or clan names but love giving themselves extravagant titles, which they change depending on what they deem their most impressive achievement or feature. When traveling outside of their homeland, a Denarii will often take a surname that reminds them of their home village. It can be the name of a landmark, the name of the settlement or even the name of someone living there.  
+First names:  
+Brath, Murth, Narrmer, Hresla, Chturla, Trengarth, Zarmarth  
+Surnames:  
+Seastar, Twisted Tor, Zelavari, Threphr, Pinewood, Dragonbone  
+Full names:  
+Sarrsif Bluelagoon the Feather-Catcher, Berrg Eveltor the Glistening, Mirmar Grerrth Killer-of-Bulettes
+
+#### Redemption and Revenge
+
+Denarii take up adventuring life for many reasons. Since the fall of their king, none of them are bound to an oath or orders. Some take the roads to escape the dire life conditions, to seek ways to take revenge and restore their people’s former glory, to accomplish deeds that would make them worthy of a new title, or to try to atone for their people’s sins. One way or another, they often seek a freedom their homeland can no longer give them.
+
+#### Denarii Traits
+
+##### Ability Score Increase
+
+Your Charisma score increases by 2 and your Intelligence score increases by 1.
+
+##### Age
+
+Denarii reach their physical maturity around 25 years old and consider themselves full-fledged adults at 30. They usually live between 150 and 200 years.
+
+##### Alignment
+
+The Denarii are often independent and somewhat always look for freedom even under the strictest rules. They tend to be Chaotic, and do not tend towards one particular moral alignment.
+
+##### Size
+
+Denarii tend to be between 5 and 6 feet tall, with females being slightly taller than males. They weigh around 150 pounds. Their build is similar to humans’. Your size is medium.
+
+##### Speed
+
+Your base walking speed is 30 feet
+
+##### All-seeing eyes
+
+Your numerous eyes are always watching. You have proficiency in the Perception skill, and you have advantage on wisdom (perception) checks that rely on sight. You cannot avert your eyes. 
+
+##### Darkvision
+
+Thanks to your sharp eyes, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+##### Prehensile Tail
+
+Your long tail is covered in little spikes, allowing you to use it to grab objects. You can also use it as a natural weapon dealing 1d6 + your strength modifier bludgeoning damage, and you can use it to grapple small and tiny creatures.
+
+##### Mage Ancestry
+
+You know the minor illusion cantrip. 
+
+##### Stigma of the past
+
+You cannot escape from the sins of your people. Undead and fiend creatures are naturally wary of you and you have a disadvantage to interact with them socially. They are more likely to target you in a fight. 
+
+##### Languages
+
+You can speak, read and write common and Estrellean. Estrellean is the language spoken by the inhabitants of the Lost Planes. It’s a very rough-sounding language with a complex grammar, and it uses celestial 
+script.
+
 ### Animae
 
 ![Animae](assets/races/animae.jpg)
@@ -113,12 +203,12 @@ You have proficiency in the Perception skill.
 
 Animae can shapeshift at will into and out of their animal form.
 The transformation takes about one minute each way.  
-In their animal form, Animae gain the following benefits:
+In their animal form, Animaes gain the following benefits:
 - Advantage on smell and hearing based Perception checks.
 - Their natural weapon damage increases to 1d6 slashing (str or dex).
 - Their speeds increase to 50 ft.
 
-In their animal form, Animae can't:
+In their animal form, Animaes can't:
 - Use any weapon besides their claws.
 - Wear any armor. Base AC is still 10 + Dex bonus.
 - Cast any spells (transforming doesn't break concentration or prevent from taking actions that are part of spells that were already cast)
