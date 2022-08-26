@@ -280,7 +280,7 @@ Timo, Paku, Nana, Ari...
 
 ##### Ability score increase
 
-Your intelligence score increases by 2 and your dexterity score increases by 1.
+Kalar gain a bonus of 2 to their intelligence and a bonus of 1 to another characteristic of their choice.
 
 ##### Age
 
