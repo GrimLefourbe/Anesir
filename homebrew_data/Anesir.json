@@ -143,7 +143,7 @@
 					"type": "entries",
 					"name": "Shapeshifting",
 					"entries": [
-						"Outside of battle, you can shapeshift into your animal form. As a beast, you gain advantage on wisdom ({@skill Perception}) checks that rely on hearing and smell. Under this form, you can still speak Wolftongue, and you gain the ability to communicate in a limited manner with beasts and understand them. Once you use this feature, you cannot use it again until you finish a short or long rest."
+						"Animaes can shapeshift at will into and out of their animal form. The transformation takes about one minute each way.\nIn their animal form, Animaes gain the following benefits:\n\nAdvantage on smell and hearing based Perception checks.\nTheir natural weapon damage increases to 1d6 slashing (str or dex).\nTheir speeds increase to 50 ft.\nIn their animal form, Animaes can't:\n\nUse any weapon besides their claws.\nWear any armor. Base AC is still 10 + Dex bonus.\nCast any spells (transforming doesn't break concentration or prevent from taking actions that are part of spells that were already cast)\nSpeak any language besides Wolftongue. (They can still understand the same languages as in humanoid form)\nAn animae's equipment merges with their animal form (similarly to Druid's Wild Shape).\nWhen transformed, Animaes can carry creatures up to one size smaller than them.\n\nInstead of taking a minute to transform into their animal form, Animaes can also transform using a single bonus action. This is, however, a tiring process. This power recharges during either a long rest or a hearty meal."
 					]
 				},
 				{
