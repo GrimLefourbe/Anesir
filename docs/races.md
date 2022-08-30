@@ -17,38 +17,159 @@ Most races of the old world can be encountered in Anesir although mainly concent
 
 ### Nagbloed
 
+Descended from Dagbloed who swore loyalty to the Night God instead of the Sun Goddess, the Nagbloed walk in the shadows and still nurture their kind’s past dreams of conquest.
+
+#### Marked by Evil
+
+Nagbloed are similar to their sun-loving cousins. They are tall, with long, pointy ears, big horns, reddish skin, sharp fangs and black sclera. However, their allegiance appears on their skin in the form of black markings. Nagbloed tend to have very pale, almost white hair, but a great number of them dye it in extravagant colours to their liking. They tend to wear large, dark clothing, sometimes decorated with eyes. They like wearing ornate jewellery, especially if said items are enchanted.
+
+#### Gift of Long Life
+
+While their surface-dwelling brethren barely live longer than a century, Nagbloed can easily live for 200 years. From their late teens to the day of their death, they fill their life with research, pursuit of knowledge and power. They are driven by hatred and greed and tend to be distant and aggressive even towards each other. However, when they get attached, they tend to become fiercely loyal, although overly jealous and possessive. Their grudges last long and their revenge is often disproportionate compared to the offense.  
+They are very loyal to their rulers and their God, less so to their family.
+
+#### Underground Dwellings
+
+Despite their differences, Dagbloed and Nagbloed still form one civilization and they tend to live at the same place, although their cities could be considered as separate. Nagbloed build underground cities under Dagbloed cities, exploiting natural cave formations or digging their own tunnels. If possible, a Nagbloed city is built around an underground lake or current. They use the same materials as Dagbloed, but their buildings are small and closed. They do not bother with windows or other unnecessary openings and exclusively use magically reinforced red stone. The city’s temple, dedicated to the Night God, is the only building built following Dagbloed architectural model. The cities are dense and magic lights always bathe them in a dim light. The streets are often patrolled with guards and dark alleyways are rife with beggars and prostitutes.  
+In caverns separated from the rest of the city, Nagbloed farm roots, mushrooms and algae for sustenance. They also raise some creatures as cattle such as giant badgers, giant bats and giant insects.  
+Nagbloed are led by priests appointed by the Necromancer’s guild. They oversee the city’s infrastructure and act as an interface between the Necromancers and the uninitiated population.
+
+#### Greed and lust for power
+
+Nagbloed are rarely driven by altruistic motives. When they leave their underground city to meddle with the other races, they always make sure they will get something out of it. To seek dark knowledge or a powerful artefact, or sent as envoys or spies by their leaders, they are driven by their own selfishness and fanaticism.
+
+#### Untrustworthy allies
+
+Even more secretive than their surface cousins, the very existence of the Nagbloed is a mystery among the other races. However, they do trade abundantly with the Dagbloed and send envoys in powerful leaders’ courts to form alliances. Due to their tendency to turn on their allies as soon as their goal is reached, those who wish to use the Nagbloed’ powers have to consider the risks very carefully.
+
+#### The Necromancers' Guild
+
+The Necromancers’ Guild is a cult of fanatics devoted to the Night God. It is mainly composed of Nagbloed but welcomes members of all other races. To enter the cult, one must go through complex rituals and be personally approved of by an initiated member of the cult. As the closest to the Night God, they rule over the Nagbloed. The Hierophant leads the Guild, and they are considered to speak directly for the Night God. A new Hierophant is appointed by the three Archpriests of the Guild upon the death of the previous leader. For the first time in the Guild’s history, the current Hierophant is a human.
+
+#### Nagbloed Names
+
+Nagbloed follow the same naming conventions as Dagbloed. Members of other races who join the Necromancer’s guild take a name in the same fashion.
+
+#### Nagbloed Traits
+
+You are under the Night God’s protection. You do not know what it will cost you yet, but as a Nagbloed you have the following traits: 
+
+##### Ability score increase
+
+Your Charisma score increases by 2.
+
+##### Age
+
+The Night God grants you long life. His followers mature at the same rate as humans but can live to be 200 years old.
+
+##### Alignment
+
+Nagbloed have turned their back on the Sun Goddess, but they still follow the Night God’s precepts. They tend to be lawful. However, their lust for power draws them towards Evil.
+
+##### Size
+
+Nagbloed have the same size and frame as any Dagbloed. Your size is medium.
+
+##### Speed
+
+Your base walking speed is 30 feet.
+
+##### Darkvision
+
+you have lived in the shadows for as long as you can remember. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.
+
+##### Walk in Shadows
+
+You have proficiency in the Stealth skill.
+
+##### Language
+
+You can speak, read and write Common, Sanguis and Abyssal.
+
+##### Subraces: Icarean
+
+![Icarean](assets/races/nagbloed_icarean.jpg)
+
+Icarean Nagbloed descend from Sun-Scorched Dagbloed who prayed to the Sun Goddess for an even greater power. As a punishment for their greed, the Goddess burned them in fire and cursed them to never be able to bear the sunlight. They look like Sun-Scorched Dagbloed but dark scars run across their bodies.
+
+###### Ability Score Increase
+
+Your constitution score increases by 1. Your strength score increases by 1.
+
+###### Daylight Hater
+
+The sunlight weakens you. You have a disadvantage on attack rolls, ability checks and saving throws relying on strength and dexterity if you stand in direct sunlight.
+
+###### Superior Darkvision
+
+Your Darkvision increases to 120 feet.
+
+###### Slithering Shadow
+
+Your movement speed increases to 35 feet.
+
+###### Armour training
+
+you have proficiency with light and medium armour.
+
+##### Subraces: Nekros
+
+![Nekros](assets/races/nagbloed_nekros.jpg)
+
+First followers of the Night God cast aside as Dagbloed became more peaceful, they prayed to their God for power, and it was granted to them at a cost. Their horns relatively small and curve backwards, and black markings run across their face and bodies, looking like tattoos.
+
+###### Ability score increase
+
+Your Dexterity score increases by 1.
+
+###### Assassin Training
+
+You have proficiency with the dagger, rapier, shortbow and longbow.
+
+###### Dark Resistance
+
+You have resistance against necrotic damage.
+
+###### Dark Knowledge
+
+You are proficient in the Arcana skill.
+
+###### Erudite
+
+You learn one extra language.
+
 ### Sayanaki
 
 ### Denarii
 
 ![Denarii](assets/races/denarii.jpg)
 
-They came from a destroyed plane along with their eternal enemies, the Sayanaki. Their bloody history, full of war and hatred, ended abruptly as they now live in poverty, reduced to servitude. 
+They came from a destroyed plane along with their eternal enemies, the Sayanaki. Their bloody history, full of war and hatred, ended abruptly as they now live in poverty, reduced to servitude.
 
 #### Unsettling appearance
 
 A Denarii’s physique always makes them stand out, and the attention they receive is rarely positive. Their frame and build are similar to humans, but their physical appearance is wildly different. At first glance, they seem to have five eyes, always glancing everywhere, but an attentive observer will notice that what seems to be a mouth is actually an eyelid. Their actual mouth is right under their throat, full of apparent sharp teeth, but they do use their decoy mouth to convey the same kind of facial expressions as any humanoid. They have long, pointy and slightly droopy ears. On their upper arms, two more eyes are ever watchful. Another noticeable trait of the Denarii is their long tail. It’s covered it tiny spikes allowing it to grip objects.
 
 Denarii’ skin can be of any color, but it is usually dark and greyish. It is covered in a thin layer of mucus. Their hair grows in two or more colors, which may or may not form patterns.  
-Denarii pay close attention to their appearance and like to wear intricate clothing coated in a water repellent substance to accommodate their slimy skin. 
+Denarii pay close attention to their appearance and like to wear intricate clothing coated in a water repellent substance to accommodate their slimy skin.
 
 #### Flamboyant and Grandiloquent
 
 Denarii tend to be very expressive and take up a lot of space in a room. Whether it is through their elaborate outfits, colorful skin and hair, dramatic manners or unusual appearance, they tend to draw attention on themselves, and often revel in it. They tend to be social but seem to consider themselves superior to most of the other races. They are confident and proud, even after being defeated and brought into servitude. They sometimes appear condescending and often only form surface-level relationships with other races and tend to stick together with their peers. Despite their arrogance, they seem to fear the unknown. They are a bit too quick to trust their own race, and a bit too stubborn in their mistrust of the others. 
-Denarii also often think of themselves as artists and seek to bring beauty to the world and to themselves. They often take inspiration from nature for their clothing and patterns. 
+Denarii also often think of themselves as artists and seek to bring beauty to the world and to themselves. They often take inspiration from nature for their clothing and patterns.
 
 #### Always Ready
 
 Denarii never built great cities. They lived a nomadic lifestyle for most of their history but started gathering in bigger communities when as the scale of their wars with the Sayanaki increased. They often build fortified villages or encampments in areas with high relief such as mountains or hills. Most of their buildings are made of wood or cloth, bone and hide. Their furniture is light and can be easily moved. Although their lifestyle is becoming more sedentary, Denarii are always ready to move out when threatened. They raise resilient cattle and always have a stock of non-perishable food to take with them should they leave their settlement. They use magic to maintain their crops and accelerate their growth. 
-Since the end of the Greater War, Denarii also inhabit districts in Sayanaki cities. These districts are often poor and rife with crime and soldiers are patrolling them day and night. The Denarii living there see themselves as prisoners rather than citizens of the city and are often used by the Sayanaki for cheap labour. 
+Since the end of the Greater War, Denarii also inhabit districts in Sayanaki cities. These districts are often poor and rife with crime and soldiers are patrolling them day and night. The Denarii living there see themselves as prisoners rather than citizens of the city and are often used by the Sayanaki for cheap labour.
 
 #### Denarii and Warlocks
 
-Due to their past history, warlocks have become exceedingly rare among Denarii. Few otherworldly patrons would accept to deal with them after the cruel betrayal they experienced, and such a pact often comes at a high cost. 
+Due to their past history, warlocks have become exceedingly rare among Denarii. Few otherworldly patrons would accept to deal with them after the cruel betrayal they experienced, and such a pact often comes at a high cost.
 
 #### Mutual mistrust
 
-Denarii are wary of strangers, and this defiance goes both ways. Be it because of their appearance or their involvement in too many wars, most races have a hard time trusting them. However, their exuberant and extroverted nature makes them great drinking partners and distant friends. 
+Denarii are wary of strangers, and this defiance goes both ways. Be it because of their appearance or their involvement in too many wars, most races have a hard time trusting them. However, their exuberant and extroverted nature makes them great drinking partners and distant friends.
 
 #### Denarii Names
 
@@ -201,7 +322,7 @@ You have proficiency in the Perception skill.
 
 ##### Shapeshifting
 
-Animae can shapeshift at will into and out of their animal form.
+Animaes can shapeshift at will into and out of their animal form.
 The transformation takes about one minute each way.  
 In their animal form, Animaes gain the following benefits:
 - Advantage on smell and hearing based Perception checks.
