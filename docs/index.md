@@ -13,6 +13,7 @@ Pour + de détails, les pages suivantes sont disponibles:
 - [Maps](maps.md)
 - [Races](races.md)
 - [Gods and Godesses](gods.md)
+- [Notable Characters](characters.md)
 
 ## Editing these pages.
 
