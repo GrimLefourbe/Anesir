@@ -15,7 +15,9 @@
 				"targetSchema": "1.1.0",
 				"color": "0f8a0d"
 			}
-		]
+		],
+		"dateAdded": 1685507932,
+		"dateLastModified": 1685507932
 	},
 	"race": [
 		{
@@ -261,112 +263,6 @@
 					],
 					"type": "entries"
 				}
-			],
-			"subraces": [
-				{
-					"name": "Icarean",
-					"source": "Anesir",
-					"ability": [
-						{
-							"con": 1
-						}
-					],
-					"darkvision": 120,
-					"armorProficiencies": [
-						{
-							"light": true,
-							"medium": true
-						}
-					],
-					"speed": 35,
-					"traitTags": [
-						"Sunlight Sensitivity"
-					],
-					"entries": [
-						{
-							"name": "Superior Darkvision",
-							"entries": [
-								"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-							],
-							"data": {
-								"overwrite": "Darkvision"
-							},
-							"type": "entries"
-						},
-						{
-							"name": "Armor Training",
-							"entries": [
-								"You have proficiency with light and medium armor."
-							],
-							"type": "entries"
-						},
-						{
-							"name": "Sunlight Sensitivity",
-							"entries": [
-								"You have disadvantage on attack rolls and Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
-							],
-							"type": "entries"
-						},
-						{
-							"name": "Slithering Shadow",
-							"entries": [
-								"Your movement speed increases to 35 feet."
-							],
-							"type": "entries"
-						}
-					]
-				},
-				{
-					"name": "Nekros",
-					"source": "Anesir",
-					"page": 1,
-					"skillProficiencies": [
-						{
-							"arcana": true
-						}
-					],
-					"weaponProficiencies": [
-						{
-							"dagger|phb": true,
-							"rapier|phb": true,
-							"shortbow|phb": true,
-							"longbow|phb": true
-						}
-					],
-					"resist": [
-						"necrotic"
-					],
-					"entries": [
-						{
-							"type": "entries",
-							"name": "Assassin Training",
-							"entries": [
-								"You have proficiency with the {@item dagger|phb}, {@item rapier|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Dark Knowledge",
-							"entries": [
-								"You have proficiency in the {@skill Arcana} skill."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Dark Resistance",
-							"entries": [
-								"You have resistance against necrotic damage."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Erudite",
-							"entries": [
-								"You learn one extra language."
-							]
-						}
-					]
-				}
 			]
 		},
 		{
@@ -459,76 +355,6 @@
 					],
 					"type": "entries"
 				}
-			],
-			"subraces": [
-				{
-					"name": "Sun-Scorched",
-					"source": "Anesir",
-					"page": 1,
-					"ability": [
-						{
-							"con": 1
-						}
-					],
-					"armorProficiencies": [
-						{
-							"light": true,
-							"medium": true
-						}
-					],
-					"weaponProficiencies": [
-						{
-							"choose": {
-								"fromFilter": "type=martial weapon|miscellaneous=mundane",
-								"count": 2
-							}
-						}
-					],
-					"entries": [
-						{
-							"name": "Martial Training",
-							"entries": [
-								"You are proficient with two {@filter martial weapons|items|source=phb|category=basic|type=martial weapon} of your choice and with light and medium armor."
-							],
-							"type": "entries"
-						}
-					]
-				},
-				{
-					"name": "Sun-Bathed",
-					"source": "Anesir",
-					"page": 1,
-					"skillProficiencies": [
-						{
-							"choose": {
-								"from": [
-									"insight",
-									"history",
-									"religion",
-									"arcana",
-									"nature"
-								]
-							},
-							"count": 2
-						}
-					],
-					"entries": [
-						{
-							"type": "entries",
-							"name": "Scholar",
-							"entries": [
-								"You gain proficiency with one of the following skills of your choice: {@skill Insight}, {@skill History}, {@skill Religion}, {@skill Arcana}, or {@skill Nature}."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Erudite",
-							"entries": [
-								"You learn one extra language."
-							]
-						}
-					]
-				}
 			]
 		},
 		{
@@ -581,7 +407,7 @@
 			],
 			"toolProficiencies": [
 				{
-					"navigator's tools": 1
+					"navigator's tools": true
 				}
 			],
 			"additionalSpells": [
@@ -674,6 +500,188 @@
 						"You can speak, read and write Common, Kalari and one other language of your choice. Kalari is the language of the Kalar, a fast-paced flowing language rich in vowels and short words. It is written using Celestial script"
 					],
 					"type": "entries"
+				}
+			]
+		}
+	],
+	"subrace": [
+		{
+			"raceName": "Dagbloed",
+			"raceSource": "Anesir",
+			"name": "Sun-Scorched",
+			"source": "Anesir",
+			"page": 1,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"armorProficiencies": [
+				{
+					"light": true,
+					"medium": true
+				}
+			],
+			"weaponProficiencies": [
+				{
+					"choose": {
+						"fromFilter": "type=martial weapon|miscellaneous=mundane",
+						"count": 2
+					}
+				}
+			],
+			"entries": [
+				{
+					"name": "Martial Training",
+					"entries": [
+						"You are proficient with two {@filter martial weapons|items|source=phb|category=basic|type=martial weapon} of your choice and with light and medium armor."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"raceName": "Dagbloed",
+			"raceSource": "Anesir",
+			"name": "Sun-Bathed",
+			"source": "Anesir",
+			"page": 1,
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"insight",
+							"history",
+							"religion",
+							"arcana",
+							"nature"
+						]
+					},
+					"count": 2
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Scholar",
+					"entries": [
+						"You gain proficiency with one of the following skills of your choice: {@skill Insight}, {@skill History}, {@skill Religion}, {@skill Arcana}, or {@skill Nature}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Erudite",
+					"entries": [
+						"You learn one extra language."
+					]
+				}
+			]
+		},
+		{
+			"raceName": "Nagbloed",
+			"raceSource": "Anesir",
+			"name": "Icarean",
+			"source": "Anesir",
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"darkvision": 120,
+			"armorProficiencies": [
+				{
+					"light": true,
+					"medium": true
+				}
+			],
+			"speed": 35,
+			"traitTags": [
+				"Sunlight Sensitivity"
+			],
+			"entries": [
+				{
+					"name": "Superior Darkvision",
+					"entries": [
+						"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"data": {
+						"overwrite": "Darkvision"
+					},
+					"type": "entries"
+				},
+				{
+					"name": "Armor Training",
+					"entries": [
+						"You have proficiency with light and medium armor."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Sunlight Sensitivity",
+					"entries": [
+						"You have disadvantage on attack rolls and Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Slithering Shadow",
+					"entries": [
+						"Your movement speed increases to 35 feet."
+					],
+					"type": "entries"
+				}
+			]
+		},
+		{
+			"raceName": "Nagbloed",
+			"raceSource": "Anesir",
+			"name": "Nekros",
+			"source": "Anesir",
+			"page": 1,
+			"skillProficiencies": [
+				{
+					"arcana": true
+				}
+			],
+			"weaponProficiencies": [
+				{
+					"dagger|phb": true,
+					"rapier|phb": true,
+					"shortbow|phb": true,
+					"longbow|phb": true
+				}
+			],
+			"resist": [
+				"necrotic"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Assassin Training",
+					"entries": [
+						"You have proficiency with the {@item dagger|phb}, {@item rapier|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Dark Knowledge",
+					"entries": [
+						"You have proficiency in the {@skill Arcana} skill."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Dark Resistance",
+					"entries": [
+						"You have resistance against necrotic damage."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Erudite",
+					"entries": [
+						"You learn one extra language."
+					]
 				}
 			]
 		}
