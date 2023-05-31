@@ -12,6 +12,7 @@ Autres noms ou surnoms: le Naif, le Bénévolent, le Tortionnaire, l'Enfant Prov
 ## Biographie
 
 ### Débuts
+
 Grim l'Enfant nait en 1152 AR dans un clan Animae de l'empire de Krishna du Nord. Etant incapable de se transformer, il est nommé Grim d'après un voyageur humain rencontré par le clan. Il grandit ensuite avec les autres enfants du clan, il s'intéresse principalement aux druides de son clan et développe alors une grande curiosité ainsi qu'un certain mépris de l'autorité, n'aimant pas son statut inférieur.
 
 Au printemps de 1163, le maitre chasseur du clan emmène l'ensemble des enfants du clan, dont Grim, sur un ancien champ de bataille. Alors que la visite a pour but de sensibiliser les animae au grand risque que représente la magie arcane, Grim fouille dans une pile de débris et trouve un objet vert luisant qui attise sa curiosité.  

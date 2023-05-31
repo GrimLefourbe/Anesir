@@ -54,7 +54,7 @@ Nagbloed follow the same naming conventions as Dagbloed. Members of other races 
 
 #### Nagbloed Traits
 
-You are under the Night God’s protection. You do not know what it will cost you yet, but as a Nagbloed you have the following traits: 
+You are under the Night God’s protection. You do not know what it will cost you yet, but as a Nagbloed you have the following traits:  
 
 **Ability score increase** :: Your Charisma score increases by 2.
 
@@ -127,7 +127,7 @@ Denarii also often think of themselves as artists and seek to bring beauty to th
 
 #### Always Ready
 
-Denarii never built great cities. They lived a nomadic lifestyle for most of their history but started gathering in bigger communities when as the scale of their wars with the Sayanaki increased. They often build fortified villages or encampments in areas with high relief such as mountains or hills. Most of their buildings are made of wood or cloth, bone and hide. Their furniture is light and can be easily moved. Although their lifestyle is becoming more sedentary, Denarii are always ready to move out when threatened. They raise resilient cattle and always have a stock of non-perishable food to take with them should they leave their settlement. They use magic to maintain their crops and accelerate their growth. 
+Denarii never built great cities. They lived a nomadic lifestyle for most of their history but started gathering in bigger communities when as the scale of their wars with the Sayanaki increased. They often build fortified villages or encampments in areas with high relief such as mountains or hills. Most of their buildings are made of wood or cloth, bone and hide. Their furniture is light and can be easily moved. Although their lifestyle is becoming more sedentary, Denarii are always ready to move out when threatened. They raise resilient cattle and always have a stock of non-perishable food to take with them should they leave their settlement. They use magic to maintain their crops and accelerate their growth.
 Since the end of the Greater War, Denarii also inhabit districts in Sayanaki cities. These districts are often poor and rife with crime and soldiers are patrolling them day and night. The Denarii living there see themselves as prisoners rather than citizens of the city and are often used by the Sayanaki for cheap labour.
 
 #### Denarii and Warlocks
@@ -162,9 +162,9 @@ Denarii take up adventuring life for many reasons. Since the fall of their king,
 
 **Size** :: Denarii tend to be between 5 and 6 feet tall, with females being slightly taller than males. They weigh around 150 pounds. Their build is similar to humans’. Your size is medium.
 
-**Speed** :: Your base walking speed is 30 feet
+**Speed** :: Your base walking speed is 30 feet.
 
-**All-seeing eyes** :: Your numerous eyes are always watching. You have proficiency in the Perception skill, and you have advantage on wisdom (perception) checks that rely on sight. You cannot avert your eyes. 
+**All-seeing eyes** :: Your numerous eyes are always watching. You have proficiency in the Perception skill, and you have advantage on wisdom (perception) checks that rely on sight. You cannot avert your eyes.
 
 **Darkvision** :: Thanks to your sharp eyes, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
@@ -299,7 +299,7 @@ The magical trinkets they make and the fabric they weave from long-haired rabbit
 #### Life in the air
 
 Spending most of their lives high up in the air, Kalar face many challenges. While most of their food comes from trade with land-dwellers, they also raise small animals for food. Dedicated rooms of the airships hold broods of long-haired rabbits and flightless birds, providing them with meat, wool, and eggs. On sunny days when the sea is calm, they also lower their airships to fish.  
-Life on the airships require a lot of discipline, and Kalar are expected to help out around the ship from a young age. Most Kalar find themselves enjoying hard work, and fill whatever free time they have left with manual crafts and deep study of lore and legends. 
+Life on the airships require a lot of discipline, and Kalar are expected to help out around the ship from a young age. Most Kalar find themselves enjoying hard work, and fill whatever free time they have left with manual crafts and deep study of lore and legends.
 
 #### Seekers of knowledge
 
@@ -330,7 +330,7 @@ Timo, Paku, Nana, Ari...
 
 **Alignement** :: Life on an airship is strict, and Kalar have an ingrained sense of discipline drawing them towards Lawful alignments. They teach their young the value of compassion and solidarity early on, and most Kalar tend to be Good.
 
-**Size** :: Kalar usually stand between 3 and 4 feet tall and weigh about 40 pounds. Your size is small. 
+**Size** :: Kalar usually stand between 3 and 4 feet tall and weigh about 40 pounds. Your size is small.
 
 **Speed** :: Your base walking speed is 25 feet.
 
