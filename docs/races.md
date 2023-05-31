@@ -50,67 +50,42 @@ The Necromancers’ Guild is a cult of fanatics devoted to the Night God. It is 
 
 Nagbloed follow the same naming conventions as Dagbloed. Members of other races who join the Necromancer’s guild take a name in the same fashion.
 
+\page
+
 #### Nagbloed Traits
 
 You are under the Night God’s protection. You do not know what it will cost you yet, but as a Nagbloed you have the following traits: 
 
-##### Ability score increase
+**Ability score increase** :: Your Charisma score increases by 2.
 
-Your Charisma score increases by 2.
+**Age** :: The Night God grants you long life. His followers mature at the same rate as humans but can live to be 200 years old.
 
-##### Age
+**Alignment** :: Nagbloed have turned their back on the Sun Goddess, but they still follow the Night God’s precepts. They tend to be lawful. However, their lust for power draws them towards Evil.
 
-The Night God grants you long life. His followers mature at the same rate as humans but can live to be 200 years old.
+**Size** :: Nagbloed have the same size and frame as any Dagbloed. Your size is medium.
 
-##### Alignment
+**Speed** :: Your base walking speed is 30 feet.
 
-Nagbloed have turned their back on the Sun Goddess, but they still follow the Night God’s precepts. They tend to be lawful. However, their lust for power draws them towards Evil.
+**Darkvision** :: You have lived in the shadows for as long as you can remember. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.
 
-##### Size
+**Walk in Shadows** :: You have proficiency in the Stealth skill.
 
-Nagbloed have the same size and frame as any Dagbloed. Your size is medium.
-
-##### Speed
-
-Your base walking speed is 30 feet.
-
-##### Darkvision
-
-you have lived in the shadows for as long as you can remember. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.
-
-##### Walk in Shadows
-
-You have proficiency in the Stealth skill.
-
-##### Language
-
-You can speak, read and write Common, Sanguis and Abyssal.
+**Language** :: You can speak, read and write Common, Sanguis and Abyssal.
 
 ##### Subraces: Icarean
 
-![Icarean](assets/races/nagbloed_icarean.jpg)
-
+![Icarean](assets/races/nagbloed_icarean.jpg)  
 Icarean Nagbloed descend from Sun-Scorched Dagbloed who prayed to the Sun Goddess for an even greater power. As a punishment for their greed, the Goddess burned them in fire and cursed them to never be able to bear the sunlight. They look like Sun-Scorched Dagbloed but dark scars run across their bodies.
 
-###### Ability Score Increase
+**Ability Score Increase** :: Your constitution score increases by 1. Your strength score increases by 1.
 
-Your constitution score increases by 1. Your strength score increases by 1.
+**Daylight Hater** :: The sunlight weakens you. You have a disadvantage on attack rolls, ability checks and saving throws relying on strength and dexterity if you stand in direct sunlight.
 
-###### Daylight Hater
+**Superior Darkvision** :: Your Darkvision increases to 120 feet.
 
-The sunlight weakens you. You have a disadvantage on attack rolls, ability checks and saving throws relying on strength and dexterity if you stand in direct sunlight.
+**Slithering Shadow** :: Your movement speed increases to 35 feet.
 
-###### Superior Darkvision
-
-Your Darkvision increases to 120 feet.
-
-###### Slithering Shadow
-
-Your movement speed increases to 35 feet.
-
-###### Armour training
-
-you have proficiency with light and medium armour.
+**Armour training** :: You have proficiency with light and medium armour.
 
 ##### Subraces: Nekros
 
@@ -118,25 +93,15 @@ you have proficiency with light and medium armour.
 
 First followers of the Night God cast aside as Dagbloed became more peaceful, they prayed to their God for power, and it was granted to them at a cost. Their horns relatively small and curve backwards, and black markings run across their face and bodies, looking like tattoos.
 
-###### Ability score increase
+**Ability score increase** :: Your Dexterity score increases by 1.
 
-Your Dexterity score increases by 1.
+**Assassin Training** :: You have proficiency with the dagger, rapier, shortbow and longbow.
 
-###### Assassin Training
+**Dark Resistance** :: You have resistance against necrotic damage.
 
-You have proficiency with the dagger, rapier, shortbow and longbow.
+**Dark Knowledge** :: You are proficient in the Arcana skill.
 
-###### Dark Resistance
-
-You have resistance against necrotic damage.
-
-###### Dark Knowledge
-
-You are proficient in the Arcana skill.
-
-###### Erudite
-
-You learn one extra language.
+**Erudite** :: You learn one extra language.
 
 ### Sayanaki
 
@@ -155,7 +120,9 @@ Denarii pay close attention to their appearance and like to wear intricate cloth
 
 #### Flamboyant and Grandiloquent
 
-Denarii tend to be very expressive and take up a lot of space in a room. Whether it is through their elaborate outfits, colorful skin and hair, dramatic manners or unusual appearance, they tend to draw attention on themselves, and often revel in it. They tend to be social but seem to consider themselves superior to most of the other races. They are confident and proud, even after being defeated and brought into servitude. They sometimes appear condescending and often only form surface-level relationships with other races and tend to stick together with their peers. Despite their arrogance, they seem to fear the unknown. They are a bit too quick to trust their own race, and a bit too stubborn in their mistrust of the others. 
+Denarii tend to be very expressive and take up a lot of space in a room. Whether it is through their elaborate outfits, colorful skin and hair, dramatic manners or unusual appearance, they tend to draw attention on themselves, and often revel in it. They tend to be social but seem to consider themselves superior to most of the other races. They are confident and proud, even after being defeated and brought into servitude. They sometimes appear condescending and often only form surface-level relationships with other races and tend to stick together with their peers.  
+\page
+Despite their arrogance, they seem to fear the unknown. They are a bit too quick to trust their own race, and a bit too stubborn in their mistrust of the others.
 Denarii also often think of themselves as artists and seek to bring beauty to the world and to themselves. They often take inspiration from nature for their clothing and patterns.
 
 #### Always Ready
@@ -187,50 +154,27 @@ Denarii take up adventuring life for many reasons. Since the fall of their king,
 
 #### Denarii Traits
 
-##### Ability Score Increase
+**Ability Score Increase** :: Your Charisma score increases by 2 and your Intelligence score increases by 1.
 
-Your Charisma score increases by 2 and your Intelligence score increases by 1.
+**Age** :: Denarii reach their physical maturity around 25 years old and consider themselves full-fledged adults at 30. They usually live between 150 and 200 years.
 
-##### Age
+**Alignment** :: The Denarii are often independent and somewhat always look for freedom even under the strictest rules. They tend to be Chaotic, and do not tend towards one particular moral alignment.
 
-Denarii reach their physical maturity around 25 years old and consider themselves full-fledged adults at 30. They usually live between 150 and 200 years.
+**Size** :: Denarii tend to be between 5 and 6 feet tall, with females being slightly taller than males. They weigh around 150 pounds. Their build is similar to humans’. Your size is medium.
 
-##### Alignment
+**Speed** :: Your base walking speed is 30 feet
 
-The Denarii are often independent and somewhat always look for freedom even under the strictest rules. They tend to be Chaotic, and do not tend towards one particular moral alignment.
+**All-seeing eyes** :: Your numerous eyes are always watching. You have proficiency in the Perception skill, and you have advantage on wisdom (perception) checks that rely on sight. You cannot avert your eyes. 
 
-##### Size
+**Darkvision** :: Thanks to your sharp eyes, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-Denarii tend to be between 5 and 6 feet tall, with females being slightly taller than males. They weigh around 150 pounds. Their build is similar to humans’. Your size is medium.
+**Prehensile Tail** :: Your long tail is covered in little spikes, allowing you to use it to grab objects. You can also use it as a natural weapon dealing 1d6 + your strength modifier bludgeoning damage, and you can use it to grapple small and tiny creatures.
 
-##### Speed
+**Mage Ancestry** :: You know the minor illusion cantrip.
 
-Your base walking speed is 30 feet
-
-##### All-seeing eyes
-
-Your numerous eyes are always watching. You have proficiency in the Perception skill, and you have advantage on wisdom (perception) checks that rely on sight. You cannot avert your eyes. 
-
-##### Darkvision
-
-Thanks to your sharp eyes, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
-
-##### Prehensile Tail
-
-Your long tail is covered in little spikes, allowing you to use it to grab objects. You can also use it as a natural weapon dealing 1d6 + your strength modifier bludgeoning damage, and you can use it to grapple small and tiny creatures.
-
-##### Mage Ancestry
-
-You know the minor illusion cantrip. 
-
-##### Stigma of the past
-
-You cannot escape from the sins of your people. Undead and fiend creatures are naturally wary of you and you have a disadvantage to interact with them socially. They are more likely to target you in a fight. 
-
-##### Languages
-
-You can speak, read and write common and Estrellean. Estrellean is the language spoken by the inhabitants of the Lost Planes. It’s a very rough-sounding language with a complex grammar, and it uses celestial 
-script.
+**Stigma of the past** :: You cannot escape from the sins of your people. Undead and fiend creatures are naturally wary of you and you have a disadvantage to interact with them socially. They are more likely to target you in a fight.
+\page
+**Languages** :: You can speak, read and write common and Estrellean. Estrellean is the language spoken by the inhabitants of the Lost Planes. It’s a very rough-sounding language with a complex grammar, and it uses celestial script.
 
 ### Animae
 
@@ -272,7 +216,9 @@ Although Animae respect druids greatly, they have a strong aversion for any othe
 #### Anima Names
 
 An Anima’s name is made of two parts. Their first name is given by the clan’s matriarchs on their first transformation. This name is usually descriptive, composed of one or two words. These names are usually unisex. It can describe the Anima themself, or the hopes the clan has for their future. In rare circumstances, an Anima can change their name later in life if they feel their current name no longer suits the path they have taken.  
-In case a cub is unable to transform, they are given a simple first name without any meaning when they start talking. These names are inspired by those of any other race, with a preference for short names, flowing sonorities and numerous vowels. Since Anima names are usually not gendered, it is possible for a male to end up with a feminine name and vice-versa.
+In case a cub is unable to transform, they are given a simple first name without any meaning when they start talking. These names are inspired by those of any other race, with a preference for short names, flowing sonorities and numerous vowels.  
+\page
+Since Anima names are usually not gendered, it is possible for a male to end up with a feminine name and vice-versa.  
 
 The clan name is the second part of an Anima’s name. It usually reflects a physical characteristic shared by all members of the clan, but as clans mix and merge, this is not always true. It can also be after the clan’s settlement location or a noteworthy item they possess.
 
@@ -287,75 +233,54 @@ Patte-Grise, Oeil-du-Nord, Dragonskin, Noire-Fourrure, Croc-Tranchant, Griffe-Do
 
 An anima character has a variety of inborn characteristics due to their wild nature.
 
-##### Ability score increase
+**Ability Score Increase** :: An animae has a bonus of 2 to their dexterity and a bonus of 1 to another characteristic of their choice.
 
-An animae has a bonus of 2 to their dexterity and a bonus of 1 to another characteristic of their choice.
+**Age** :: Animae grow up and age quickly. They walk a few months after birth, and transform before the end of the first year, usually before they can even talk. They reach maturity around 13 and are considered full-fledged warriors at 15 and allowed to leave the clan. They are considered elderly after 50 years old and rarely live past 60.
 
-##### Age
+**Alignment** :: Animae tend to be chaotic, pursuing entertainment and freedom before all. They care little for rules unless they have been decided by the matriarchs. They tend towards neutral as they are self-serving but will avoid bringing harm to others if they can. However, they usually do not care about how inconvenient they can be to others.
 
-Animae grow up and age quickly. They walk a few months after birth, and transform before the end of the first year, usually before they can even talk. They reach maturity around 13 and are considered full-fledged warriors at 15 and allowed to leave the clan. They are considered elderly after 50 years old and rarely live past 60.
-
-##### Alignment
-
-Animae tend to be chaotic, pursuing entertainment and freedom before all. They care little for rules unless they have been decided by the matriarchs. They tend towards neutral as they are self-serving but will avoid bringing harm to others if they can. However, they usually do not care about how inconvenient they can be to others.
-
-##### Size
-
-Animae are usually around 5 feet tall and weigh around 100 pounds. Their size is medium.  
+**Size** :: Animae are usually around 5 feet tall and weigh around 100 pounds. Their size is medium.  
 When they take their wolf form, Animae are usually around 3 feet tall and between 5 and 6 feet long, but some can grow larger. The transformation also adds 100 pounds or so to their weight. Under this form, their size is still medium.
 
-##### Speed
+**Speed** :: Your base walking speed is 30 feet. Additionally, your sharp claws provide you with a climbing speed of 30 feet.
 
-Your base walking speed is 30 feet. Additionally, your sharp claws provide you with a climbing speed of 30 feet.
+**Darkvision** :: Nocturnal hunter, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-##### Darkvision
+**Wolf's Claws** :: Because of your claws, you have a climbing speed of 30 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
-Nocturnal hunter, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Hunter’s senses** :: You have proficiency in the Perception skill.
 
-##### Wolf's Claws
+**Tool Proficiencies** :: You have proficiency with the tool of your choice from Alchemist’s supplies, Leatherworker’s tools, Weaver’s tools, Woodcarver’s toolor  Herbalism Kit.
 
-Because of your claws, you have a climbing speed of 30 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+**Protective Fur** :: You have resistance against cold damage.
 
-##### Hunter’s senses
-
-You have proficiency in the Perception skill.
+**Languages** :: Most Animae can speak and read Common but cannot write. Animae can also speak Wolftongue. Wolftongue, the language of the Animae is a smooth and soft language with occasional harsh and guttural sounds. There is no written alphabet for it.
 
 ##### Shapeshifting
 
-Animaes can shapeshift at will into and out of their animal form.
+As an Anima, you can shapeshift at will into and out of your animal form to go about your day.
 The transformation takes about one minute each way.  
-In their animal form, Animaes gain the following benefits:
-- Advantage on smell and hearing based Perception checks.
-- Their natural weapon damage increases to 1d6 slashing (str or dex).
-- Their speeds increase to 50 ft.
+In your animal form, you gain the following benefits:
 
-In their animal form, Animaes can't:
-- Use any weapon besides their claws.
+- Advantage on smell and hearing based Perception checks.
+- Your natural weapon damage increases to 1d6 slashing (str or dex).
+- Your speed increases to 50 ft.
+
+In your animal form, you can't:
+
+- Use any weapon besides your claws.
 - Wear any armor. Base AC is still 10 + Dex bonus.
 - Cast any spells (transforming doesn't break concentration or prevent from taking actions that are part of spells that were already cast)
-- Speak any language besides Wolftongue. (They can still understand the same languages as in humanoid form)
+- Speak any language besides Wolftongue. (You can still understand the same languages as in humanoid form)
 
-An animae's equipment merges with their animal form (similarly to Druid's Wild Shape).  
-When transformed, Animaes can carry creatures up to one size smaller than them.
+An anima's equipment merges with their animal form (similarly to a Druid's Wild Shape).  
+When transformed, you can carry creatures up to one size smaller than you.
 
-Instead of taking a minute to transform into their animal form, Animaes can also transform using a single bonus action. This is, however, a tiring process. This power recharges during either a long rest or a hearty meal.
+Instead of taking a minute to transform into their animal form, you can also transform using a single bonus action. This is, however, a tiring process. This power recharges during either a long rest or a hearty meal.
 
-Non-Transforming Animaes (Variant):  
-Some Animae simply cannot shapeshift and are as a result seen as inferior by their peers. They do not have the shapeshifting trait but gain proficiency in the Nature and Survival skills.  
+**Non-Transforming Animae (Variant)** :: Some Animae simply cannot shapeshift and are as a result seen as inferior by their peers. They do not have the shapeshifting trait but gain proficiency in the Nature and Survival skills.  
 
-##### Tool Proficiencies
-
-You have proficiency with the tool of your choice:  
-Alchemist’s supplies, Leatherworker’s tools, Weaver’s tools, Woodcarver’s tool, Herbalism Kit 
-
-##### Protective Fur
-
-Animaes have resistance against cold damage.
-
-##### Languages
-
-Most Animaes can speak and read Common but cannot write.   
-Animaes can also speak Wolftongue. Wolftongue, the language of the Animae is a smooth and soft language with occasional harsh and guttural sounds. There is no written alphabet for it.
+\page
 
 ### Kalar
 
@@ -387,7 +312,7 @@ Kalar rarely speak of what they have seen during their travel and only maintain 
 
 #### Land-dwellers
 
-Not all Kalar like the life up in the airships. Some of them leave their kin to settle down on land and enjoy a more peaceful life. These rare Kalar usually make a living as merchants or craftsmen and live a quiet and discreet life. 
+Not all Kalar like the life up in the airships. Some of them leave their kin to settle down on land and enjoy a more peaceful life. These rare Kalar usually make a living as merchants or craftsmen and live a quiet and discreet life.  
 
 #### Kalar names
 
@@ -395,58 +320,34 @@ Kalar have two names. The name which they use to introduce themselves to land-dw
 Kalar outside names:  
 Cottontail, Wobble, White-Patch, Snowfell, Red-Eye...  
 Kalar true names:  
-Timo, Paku, Nana, Ari... 
+Timo, Paku, Nana, Ari...  
 
 #### Kalar traits
 
-##### Ability score increase
+**Ability Score Increase** :: Kalar gain a bonus of 2 to their intelligence and a bonus of 1 to another characteristic of their choice.
 
-Kalar gain a bonus of 2 to their intelligence and a bonus of 1 to another characteristic of their choice.
+**Age** :: Kalar reach adulthood around 10 years old and can live for well over a century.
 
-##### Age
+**Alignement** :: Life on an airship is strict, and Kalar have an ingrained sense of discipline drawing them towards Lawful alignments. They teach their young the value of compassion and solidarity early on, and most Kalar tend to be Good.
 
-Kalar reach adulthood around 10 years old and can live for well over a century.
+**Size** :: Kalar usually stand between 3 and 4 feet tall and weigh about 40 pounds. Your size is small. 
 
-##### Alignement
+**Speed** :: Your base walking speed is 25 feet.
 
-Life on an airship is strict, and Kalar have an ingrained sense of discipline drawing them towards Lawful alignments. They teach their young the value of compassion and solidarity early on, and most Kalar tend to be Good.
+**Darkvision** :: Used to survey the skies day and night, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-##### Size
+**Tiny wings** :: Small wings sprout from your back with a wingspan of 1 foot, granting you a flying speed of 30 feet. You must land at the end of every turn or fall.  
 
-Kalar usually stand between 3 and 4 feet tall and weigh about 40 pounds. Your size is small. 
+**Speak with small beasts** :: Through sound and gestures, you may communicate simple ideas with Small or smaller beasts.
 
-##### Speed
+**Sky explorer** :: You are proficient with Navigator’s tools.  
 
-Your base walking speed is 25 feet.
+**Storm diver** :: You have resistance to Thunder damage.
 
-##### Darkvision
+**Bookworm** :: You are proficient in the History skill.  
 
-Used to survey the skies day and night, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Natural Tinkerer** :: You know the Mending cantrip.  
 
-##### Tiny wings
+\page
 
-Small wings sprout from your back with a wingspan of 1 foot, granting you a flying speed of 30 feet. You must land at the end of every turn or fall. 
-
-##### Speak with small beasts
-
-Through sound and gestures, you may communicate simple ideas with Small or smaller beasts.
-
-##### Sky explorer
-
-You are proficient with Navigator’s tools. 
-
-##### Storm diver
-
-You have resistance to Thunder damage.
-
-##### Bookworm
-
-You are proficient in the History skill. 
-
-##### Natural Tinkerer
-
-You know the Mending cantrip. 
-
-##### Languages
-
-You can speak, read and write Common, Kalari and one other language of your choice. Kalari is the language of the Kalar, a fast-paced flowing language rich in vowels and short words. It is written using Celestial script. 
+**Languages** :: You can speak, read and write Common, Kalari and one other language of your choice. Kalari is the language of the Kalar, a fast-paced flowing language rich in vowels and short words. It is written using Celestial script.  
